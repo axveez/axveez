@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @axveez
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Everything
 - 📫 How to reach me axveez.com
 
 <!---
